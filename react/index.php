@@ -123,7 +123,7 @@
 
     <div class="footer">
       <p class="copy">
-        <a href="//timgreen.ws">Back to home</a>
+        <a href="//www.timgreen.ws">Back to home</a>
       </p>
     </div>
 
