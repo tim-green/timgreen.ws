@@ -1,10 +1,10 @@
 /* Fonts */
 @font-face {
   font-family: 'basis-grotesque';
-  src: url('assets/fonts/basis-grotesque-bold.eot?#iefix') format('embedded-opentype'),
-       url('assets/fonts/basis-grotesque-bold.woff') format('woff'),
-       url('assets/fonts/basis-grotesque-bold.ttf')  format('truetype'),
-       url('assets/fonts/basis-grotesque-bold.svg#BasisGrotesquePro-Bold') format('svg');
+  src: url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.eot?#iefix') format('embedded-opentype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.woff') format('woff'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.ttf')  format('truetype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.svg#BasisGrotesquePro-Bold') format('svg');
   font-weight: bold;
   font-style: normal;
 }
@@ -12,10 +12,10 @@
 
 @font-face {
   font-family: 'basis-grotesque';
-  src: url('assets/fonts/basis-grotesque-regular.eot?#iefix') format('embedded-opentype'),
-       url('assets/fonts/basis-grotesque-regular.woff') format('woff'),
-       url('assets/fonts/basis-grotesque-regular.ttf')  format('truetype'),
-       url('assets/fonts/basis-grotesque-regular.svg#basis-grotesque-regular') format('svg');
+  src: url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.eot?#iefix') format('embedded-opentype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.woff') format('woff'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.ttf')  format('truetype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.svg#basis-grotesque-regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }

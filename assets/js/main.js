@@ -7,7 +7,7 @@ new WOW().init();
 $(document).ready(function(){
   $('.slider').slick({
     fade: false,
-    lazyLoad: 'progressive',
+    lazyLoad: 'ondemand',
     arrows: false,
     dots: false,
     responsive: [
@@ -47,6 +47,9 @@ var typed = new Typed(".typed", {
 $('.slider').on('click', function(e) {
   $(this).slick('slickNext');
 });
+
+                
+
 
 // SMOOTH SCROLL
 // Select all links with hashes

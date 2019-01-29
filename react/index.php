@@ -48,6 +48,8 @@
         </div>
         <p class="project-text">This was the first thing I've done with react, it's a simple ReactJS chat app, this app is just a fun small project that I wanted to do and learn more about ReactJS.</p>
         <a href="http://chat.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/groundctrl-chat" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
       
@@ -57,6 +59,8 @@
         </div>
         <p class="project-text">A simple spotify client made with ReactJS. If you want to try it out you will need a spotify account also please note at this time you can only listen to 30 seconds of each track.</p>
         <a href="http://spot.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/spotthefly" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
        <div class="one-project-box project-3" >
@@ -65,6 +69,8 @@
         </div>
         <p class="project-text">A GitHub repo explorer built with React and Elasticsearch.</p>
         <a href="http://git.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/gitadventure" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
        <div class="one-project-box project-4" >
@@ -73,6 +79,8 @@
         </div>
         <p class="project-text">A clone of Google Calendar used for meetings, built using React.</p>
         <a href="http://gcal.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/meeting-cal" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
        <div class="one-project-box project-5" >
@@ -81,6 +89,8 @@
         </div>
         <p class="project-text">A lorem ipsum application that generates random quotes from Rooster Teeth, built using React.</p>
         <a href="https://rt-ipsum.herokuapp.com" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/rt-ipsum" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
 
@@ -90,6 +100,8 @@
         </div>
         <p class="project-text">My first React based User Interface design</p>
         <a href="http://groundctrl-ui.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/groundctrl-ui" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
 
@@ -99,6 +111,8 @@
         </div>
         <p class="project-text">Generate fake identites for profile testing. Built with uinames.com API, Semantic UI React and powered by React.</p>
         <a href="http://fakefake.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/FakeFake" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
 
@@ -108,6 +122,8 @@
         </div>
         <p class="project-text">FilmBase is a Movie Database powered by The Movie Database API.</p>
         <a href="http://movies.timgreen.xyz/"" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/movdab" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
 
@@ -117,9 +133,21 @@
         </div>
         <p class="project-text">Simple emoji search built with react</p>
         <a href="http://emoji.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/emoji-search-react" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
-          </div>
+       <div class="one-project-box project-10" >
+        <div class="project-name">
+          Password Strength Meter
+        </div>
+        <p class="project-text"> Password Strength Meter built with React</p>
+        <a href="http://pw-strength.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/Password-Strength-Meter" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+      
+      </div>
 
     <div class="footer">
       <p class="copy">
