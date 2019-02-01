@@ -7,7 +7,7 @@
       <p class="wow fadeInUp">
         I worked with some great agencies, government organisations, individuals and start-ups to their reach both business and website goals.
 
-       My approach is realistic and creative, supported by skills in web development <span class="skill">HTML</span>, <span class="skill">CSS/Sass</span>, <span class="skill">PHP</span> and <span class="skill">JavaScript/jQuery</span>.</p>
+       My approach is realistic and creative, supported by skills in web development such as using <span class="skill">HTML</span>, <span class="skill">CSS/Sass</span>, <span class="skill">PHP</span> and <span class="skill">JavaScript/jQuery</span>.</p>
        <p class="wow fadeInUp">
         I have experience using <span class="skill">WordPress</span>, <span class="skill">Drupal</span>, <span class="skill">Shopify</span> and <span class="skill">WooCommerce</span>, I can also create Accessible PDF and Word Documents. I can create and manage email campaigns using <span class="skill">MailChimp</span>. </p>
 
