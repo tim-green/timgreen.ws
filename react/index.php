@@ -42,7 +42,7 @@
 
     <div class="lalist lg-mt">
       
-      <div class="one-project-box project-1" >
+      <div class="one-project-box project-1">
         <div class="project-name">
           Simple ReactJS Chat  
         </div>
@@ -53,7 +53,7 @@
       </div>
 
       
-       <div class="one-project-box project-2" >
+       <div class="one-project-box project-2">
         <div class="project-name">
           Spot The Fly
         </div>
@@ -63,7 +63,7 @@
         <a href="https://github.com/tim-green/spotthefly" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
-       <div class="one-project-box project-3" >
+       <div class="one-project-box project-3">
         <div class="project-name">
           Git Adventure
         </div>
@@ -73,7 +73,7 @@
         <a href="https://github.com/tim-green/gitadventure" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
-       <div class="one-project-box project-4" >
+       <div class="one-project-box project-4">
         <div class="project-name">
           Meeting Calendar
         </div>
@@ -83,7 +83,7 @@
         <a href="https://github.com/tim-green/meeting-cal" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
-       <div class="one-project-box project-5" >
+       <div class="one-project-box project-5">
         <div class="project-name">
          RT Ipsum
         </div>
@@ -94,7 +94,7 @@
       </div>
 
 
-       <div class="one-project-box project-6" >
+       <div class="one-project-box project-6">
         <div class="project-name">
           GroundCTRL React UI
         </div>
@@ -105,7 +105,7 @@
       </div>
 
 
-       <div class="one-project-box project-7" >
+       <div class="one-project-box project-7">
         <div class="project-name">
           FakeFake
         </div>
@@ -116,7 +116,7 @@
       </div>
 
 
-       <div class="one-project-box project-8" >
+       <div class="one-project-box project-8">
         <div class="project-name">
           FilmBase
         </div>
@@ -127,7 +127,7 @@
       </div>
 
 
-       <div class="one-project-box project-9" >
+       <div class="one-project-box project-9">
         <div class="project-name">
           Emoji Search 🔎
         </div>
@@ -137,16 +137,27 @@
         <a href="https://github.com/tim-green/emoji-search-react" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
-       <div class="one-project-box project-10" >
+       <div class="one-project-box project-10">
         <div class="project-name">
           Password Strength Meter
         </div>
-        <p class="project-text"> Password Strength Meter built with React</p>
+        <p class="project-text">Password Strength Meter built with React</p>
         <a href="http://pw-strength.timgreen.xyz/" target="_blank">View project</a>
           <span class="bullet-separator project-sep">&bull;</span>
         <a href="https://github.com/tim-green/Password-Strength-Meter" target="_blank" rel="nofollow">GitHub</a> 
       </div>
       
+       <div class="one-project-box project-11">
+        <div class="project-name">
+          Name Checker
+        </div>
+        <p class="project-text">Name checker is a React web app that you can use to check username availability across social networks and domains.</p>
+        <a href="http://namecheck.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/name-check" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+
+
       </div>
 
     <div class="footer">
