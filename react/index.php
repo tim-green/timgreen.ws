@@ -157,6 +157,15 @@
         <a href="https://github.com/tim-green/name-check" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
+       <div class="one-project-box project-12">
+        <div class="project-name">
+          Snake Game
+        </div>
+        <p class="project-text">The classic nokia snake game built with react</p>
+        <a href="http://snake.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/react-snake-game" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
 
       </div>
 
