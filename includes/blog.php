@@ -14,7 +14,9 @@
         <?php echo $item_description[0]; ?>
       </p>
       <p class="wow fadeInUp">
-         <a href="<?php echo $item_link[0]; ?>" class="external-linkBlog" rel="nofollow"  target="_blank">Read More</a>
+         <a href="<?php echo $item_link[0]; ?>" class="external-linkBlog" rel="nofollow"  target="_blank">Read Post</a>
+           <span class="bullet-separator project-sep">&bull;</span>
+         <a href="https://www.somewhatcreative.net/" class="external-linkBlog" rel="nofollow"  target="_blank">Visit Blog</a>
 </p>
     </div>
   </section>
