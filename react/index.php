@@ -169,6 +169,29 @@
 
       </div>
 
+        <div class="one-project-box project-13">
+        <div class="project-name">
+          Another Calendar
+        </div>
+        <p class="project-text">Just another calendar built with React</p>
+        <a href="http://cal-comp.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/another-react-calendar" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+
+
+      <div class="one-project-box project-14">
+        <div class="project-name">
+          Tetris Rush
+        </div>
+        <p class="project-text">The classic Tetris game built in React and you only got 5 minutes to your highest score</p>
+        <a href="http://tetris.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/tetris-rush" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+
+      </div>
+
     <div class="footer">
       <p class="copy">
         <a href="//www.timgreen.ws">Back to home</a>
