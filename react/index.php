@@ -184,7 +184,7 @@
         <div class="project-name">
           Tetris Rush
         </div>
-        <p class="project-text">The classic Tetris game built in React and you only got 5 minutes to your highest score</p>
+        <p class="project-text">The classic Tetris game built in React and you only got 5 minutes to get your highest score</p>
         <a href="http://tetris.timgreen.xyz/" target="_blank">View project</a>
           <span class="bullet-separator project-sep">&bull;</span>
         <a href="https://github.com/tim-green/tetris-rush" target="_blank" rel="nofollow">GitHub</a> 
