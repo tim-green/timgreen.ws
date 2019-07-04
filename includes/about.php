@@ -17,7 +17,7 @@
 
       <h2 class="now wow fadeInUp">What I'm currently learning</h2>
       <p class="now wow fadeInUp">
-        To expand my knowledge I'm currently learning ReactJS, you can check out some React <a href="<?php include('includes/react-link.php'); ?>">FUN</a> that I've coded up <a href="<?php include('includes/react-link.php'); ?>">here</a> I'm also learning an CSS framework called <span class="skill">Semantic-UI</span> and <span class="skill">Grav</span> flat-file CMS.
+        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React <a href="<?php include('includes/react-link.php'); ?>">projects</a> that I've coded up <a href="<?php include('includes/react-link.php'); ?>">here</a> I'm also learning an CSS framework called <span class="skill">Semantic-UI</span> and <span class="skill">Grav</span> flat-file CMS.
       </p>
     </div>
   </section>
