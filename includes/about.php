@@ -9,10 +9,10 @@
 
        My approach is realistic and creative, supported by skills in web development such as using <span class="skill">HTML</span>, <span class="skill">CSS/Sass</span>, <span class="skill">PHP</span>, <span class="skill">JavaScript/jQuery</span> and along with using frameworks like <span class="skill">Bootstrap</span>.</p>
        <p class="wow fadeInUp">
-        I have experience using <span class="skill">WordPress</span>, <span class="skill">Drupal</span>, <span class="skill">Shopify</span> and <span class="skill">WooCommerce</span>, I can also create Accessible PDF and Word Documents. I can create and manage email campaigns using <span class="skill">MailChimp</span>. </p>
+        I have experience using <span class="skill">WordPress</span>, <span class="skill">Drupal</span>, <span class="skill">Shopify</span> and <span class="skill">WooCommerce</span>, I can also create <span class="skill">Accessible PDF and Word Documents</span>. I can create and manage email campaigns using <span class="skill">MailChimp</span>. </p>
 
       <p class="wow fadeInUp">
-        I also have experience with the design and video software from <span class="skill">Adobe Creative Cloud</span>, and I use <span class="skill">GruntJS</span> to automatically perform frequent tasks that I use on a daily basis when building websites and I use <a href="https://github.com/tim-green" rel="nofollow"><span class="skill">GitHub</span></a> and Fork to help with version control my code.
+        I also have experience with the design and video software from <span class="skill">Adobe Creative Cloud</span>, and I use <span class="skill">GruntJS</span> to automatically perform frequent tasks that I use on a daily basis when building websites and I use <a href="https://github.com/tim-green" rel="nofollow"><span class="skill">GitHub</span></a> and <span class="skill">Fork</span>to help with version control my code.
       </p>
 
       <h2 class="now wow fadeInUp">What I'm currently learning</h2>
