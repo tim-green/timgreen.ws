@@ -6,7 +6,7 @@
         <summary class="experience-info">
           <span class="experience-info-comapny">Freelancer</span>
           <span class="experience-info-position">Website Developer</span>
-          <span class="experience-info-years">2010 - Present</span>
+          <span class="experience-info-years">2010 - Current</span>
         </summary>
       </p>
 
