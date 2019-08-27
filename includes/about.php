@@ -19,5 +19,10 @@
       <p class="now wow fadeInUp">
         To expand my knowledge I'm currently learning ReactJS, you can check out some of my <span class="skill">React</span> projects that I've coded up <a href="<?php include('includes/react-link.php'); ?>">here</a> I'm also learning an CSS framework called <span class="skill">Semantic-UI</span> and <span class="skill">Grav</span> flat-file CMS.
       </p>
+
+      <h2 class="now wow fadeInUp">What I'm currently building</h2>
+      <p class="now wow fadeInUp">
+        I'm currently working on building a full <span class="skill">Bootstrap</span> Admin Dashboard called Night Owl, and this  dashboard is a work in progress. You can view the <a href="//github.com/tim-green/night-owl-dashboard" rel="nofollow"><span class="skill">GitHub Repo</span></a> or see the  <a href="//night-owl.timgreen.ws/" rel="nofollow"><span class="skill">live view</span></a> of this work in progress.
+      </p>
     </div>
   </section>
