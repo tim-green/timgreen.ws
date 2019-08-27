@@ -2,13 +2,14 @@
     <div class="container ">
       <h2 class="now wow fadeInUp">Experience</h2>
     
-      <p class="wow fadeInUp">
+      <?php /*<p class="wow fadeInUp">
         <summary class="experience-info">
           <span class="experience-info-comapny">Freelancer</span>
           <span class="experience-info-position">Website Developer</span>
           <span class="experience-info-years">2019 - Current</span>
         </summary>
-      </p>
+      </p>*/
+      ?>
 
       <p class="wow fadeInUp">
         <summary class="experience-info">
