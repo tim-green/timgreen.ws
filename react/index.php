@@ -190,6 +190,16 @@
         <a href="https://github.com/tim-green/tetris-rush" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
+      <div class="one-project-box project-15">
+        <div class="project-name">
+          Splash
+        </div>
+        <p class="project-text">Splash is an React Unsplash photo search app made in React which that uses Unsplash API's for photo search. This is a Work In Progress.</p>
+        <a href="http://unsplash.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/splash-clone" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+
       </div>
 
     <div class="footer">
