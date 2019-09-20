@@ -75,10 +75,14 @@ ob_start("sanitize_output");
         include('includes/notables.php');
         include('includes/blog.php');
   ?>
+
+  <!-- scroll to top -->
+    <button class="scroll-to-top"></button>
+  <!-- scroll to top -->
   <footer>
   <?php include('includes/footer.php') ?>
   </footer>
 </div>
-<script src="build/js/scripts.js" async></script>
+<script src="build/js/scripts.js"></script>
 </body>
 </html>
