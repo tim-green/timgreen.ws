@@ -169,7 +169,7 @@ section{
 .moretag{display: none;}
 
 
-@media screen and (min-width: 1120px) {
+
 /*Scroll to top*/
 .scroll-to-top {
   position: fixed;
@@ -209,7 +209,6 @@ section{
   border-bottom: none;
 }
 
-}
 footer .container {
   border-top: 1px solid #f0f0f0;
 }
