@@ -77,7 +77,9 @@ ob_start("sanitize_output");
   ?>
 
   <!-- scroll to top -->
-    <button class="scroll-to-top"></button>
+    <span class="scroll-to-top">
+      <a href="javascript:void(0);"><i class="fas fa-angle-up" aria-hidden="true"></i></a>
+    </span>
   <!-- scroll to top -->
   <footer>
   <?php include('includes/footer.php') ?>
