@@ -3,7 +3,7 @@ var gotop = $('.scroll-to-top');
   $(window).on('scroll',function() {
     var windowposition = $(window).scrollTop();
     if(windowposition + $(window).height() == $(document).height()) {
-      gotop.removeClass('active');
+      gotop.addClass('active');
     }
     else if (windowposition > 150) {
       gotop.addClass('active');
