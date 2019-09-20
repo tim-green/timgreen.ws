@@ -1,41 +1,20 @@
-document.addEventListener('DOMContentLoaded', function () {
-    let scrolltotop = document.querySelector('.scroll-to-top');
-    let body = document.documentElement;
-
-    window.addEventListener('scroll', check);
-
-    function check() {
-        pageYOffset >= 500 && scrolltotop.classList.add('visible');
-        pageYOffset < 500 && scrolltotop.classList.remove('visible');
+var gotop = $('.scroll-to-top');
+  var position = gotop.offset().top;
+  $(window).on('scroll',function() {
+    var windowposition = $(window).scrollTop();
+    if(windowposition + $(window).height() == $(document).height()) {
+      gotop.removeClass('active');
     }
-
-
-    scrolltotop.onclick = function() {
-        animate({
-            duration: 700,
-            timing: goscrolltotopEaseOut,
-            draw: progress =>
-                body.scrollTop = (body.scrollTop * (1 - progress / 7))
-        });
+    else if (windowposition > 150) {
+      gotop.addClass('active');
     }
-
-    let circ = timeFraction =>
-        1 - Math.sin(Math.acos(timeFraction > 1 ? timeFraction = 1 : timeFraction));
-
-    let makeEaseOut = timing => timeFraction => 1 - timing(1 - timeFraction);
-    let goscrolltotopEaseOut = makeEaseOut(circ);
-});
-
-function animate(options) {
-    let start = performance.now();
-
-    requestAnimationFrame(function animate(time) {
-        let timeFraction = (time - start) / options.duration;
-        timeFraction > 1 && (timeFraction = 1);
-
-        let progress = options.timing(timeFraction)
-
-        options.draw(progress);
-        timeFraction < 1 && requestAnimationFrame(animate);
-    });
-}
+    else {
+      gotop.removeClass('active');
+    }
+  });
+  jQuery('.scroll-to-top a').on('click',function () {
+    jQuery('body,html').animate ({
+      scrollTop: 0
+    }, 1500);
+    return false;
+  });
