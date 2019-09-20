@@ -3,7 +3,7 @@ module.exports = function(grunt){
     grunt.initConfig({
       concat: {
         js: {
-          src: ['assets/js/jquery.js', 'assets/js/pace.js', 'assets/js/wow.min.js', 'assets/js/slick.min.js', 'assets/js/typed.min.js','assets/js/main.js'],
+          src: ['assets/js/jquery.js', 'assets/js/pace.js', 'assets/js/wow.min.js', 'assets/js/slick.min.js', 'assets/js/typed.min.js','assets/js/main.js','assets/js/scroll-to-top.js'],
           dest: 'build/js/scripts.js',  
         },
         css: {
