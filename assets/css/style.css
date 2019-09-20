@@ -157,9 +157,9 @@ section{
     border: none;
     background: #363558;
     border-radius: 50px;
-    bottom: 50px;
-    right: 50px;
-    margin-right: -30px;
+    bottom: 4%;
+    right: 2.5%;
+    margin-right: -15px;
     outline: none;
     opacity: 0;
     transition: opacity .3s ease, margin-right .5s ease-out;
