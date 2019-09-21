@@ -26,7 +26,7 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
-  <link rel="stylesheet" href="../build/css/styles.css" >
+  <link rel="stylesheet" href="../build/css/styles.min.css" >
   <link rel="stylesheet" href="../assets/css/react.css" >
 </head>
 
