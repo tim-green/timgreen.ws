@@ -9,7 +9,8 @@
   "author": "Tim Green",
   "license": "ISC",
   "dependencies": {
-    "grunt": "^1.0.3"
+    "grunt": "^1.0.4",
+    "grunt-contrib-uglify": "^4.0.1"
   },
   "devDependencies": {
     "grunt-contrib-concat": "^1.0.1",
