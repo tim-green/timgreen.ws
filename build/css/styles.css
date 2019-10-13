@@ -77,7 +77,7 @@ h1.headline {
   font-size: 10px;
 }
 
-.slider-dna::after, .slider-moon::after{
+.slider-dna::after{
   content:'';
 }
 .slide-image {
