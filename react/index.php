@@ -207,7 +207,7 @@
         <p class="project-text">The Password Generator is a secure password and passphrase generator</p>
         <a href="http://pw-gen.timgreen.xyz/" target="_blank">View project</a>
           <span class="bullet-separator project-sep">&bull;</span>
-        <a href="https://github.com/tim-green/splash-clone" target="_blank" rel="nofollow">GitHub</a> 
+        <a href="https://github.com/tim-green/password-generator" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
       </div>
