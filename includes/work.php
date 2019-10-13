@@ -9,7 +9,9 @@
         include('includes/slides/slider-crossfit.php'); 
         include('includes/slides/slider-atsb.php'); 
         include('includes/slides/slider-afma.php'); 
-        include('includes/slides/slider-orb.php'); 
+        include('includes/slides/slider-orb.php');
+        include('includes/slides/slider-idle.php');
+        include('includes/slides/slider-moonlight.php');
       ?>
     </div>
   </section>
