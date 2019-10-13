@@ -17,7 +17,7 @@
 
       <h2 class="now wow fadeInUp">What I'm currently learning</h2>
       <p class="now wow fadeInUp">
-        To expand my knowledge I'm currently learning ReactJS, you can check out some of my <span class="skill">React</span> projects that I've coded up <a href="<?php include('includes/react-link.php'); ?>">here</a> I'm also learning an CSS framework called <span class="skill">Semantic-UI</span> and <span class="skill">Grav</span> flat-file CMS.
+        To expand my knowledge I'm currently learning ReactJS, you can check out some of my <span class="skill">React</span> projects that I've coded up <a href="<?php include('includes/react-link.php'); ?>">here</a> I'm also learning <span class="skill">Adobe XD</span> so that I can improve my UI/UX design and prototyping.
       </p>
 
       <h2 class="now wow fadeInUp">What I'm currently building</h2>
