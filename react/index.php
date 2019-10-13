@@ -3,7 +3,7 @@
 <head>
   <title>Tim Green - React Fun</title>
   <meta charset="utf-8">
-  <meta name="description" content="Hi I'm Tim Green, I'm currently learning ReactJS so I've created a place to showcase what I've done with React and it's right here" />
+  <meta name="description" content="Hi I'm Tim Green, I'm learning ReactJS so I've created a place to showcase what I've done with React and it's right here" />
   <meta name="robots" content="index, follow, all" />
   <meta name="author" content="Tim Green">
   <meta name="publisher" content="Tim Green">
@@ -196,6 +196,16 @@
         </div>
         <p class="project-text">Splash is an React Unsplash photo search app made in React which that uses Unsplash API's for photo search. This is a Work In Progress.</p>
         <a href="http://unsplash.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/splash-clone" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+
+      <div class="one-project-box project-16">
+        <div class="project-name">
+          The Password Generator 
+        </div>
+        <p class="project-text">The Password Generator is a secure password and passphrase generator</p>
+        <a href="http://pw-gen.timgreen.xyz/" target="_blank">View project</a>
           <span class="bullet-separator project-sep">&bull;</span>
         <a href="https://github.com/tim-green/splash-clone" target="_blank" rel="nofollow">GitHub</a> 
       </div>
