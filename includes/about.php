@@ -22,7 +22,7 @@
 
       <h2 class="now wow fadeInUp">What I'm currently building</h2>
       <p class="now wow fadeInUp">
-        I'm currently working on building a full <span class="skill">Bootstrap</span> Admin Dashboard called Night Owl, and this  dashboard is a work in progress. You can view the <a href="//github.com/tim-green/night-owl-dashboard" rel="nofollow"><span class="skill">GitHub Repo</span></a> or see the  <a href="//night-owl.timgreen.ws/" rel="nofollow"><span class="skill">live view</span></a> of this work in progress.
+        I'm currently working on creating a new  <span class="skill">WooCommerce</span> theme called Roost, and this WooCommerce theme is a work in progress and is based on WooCommerce's Storefront theme. You can view the <a href="//github.com/tim-green/roost-storefront-theme" rel="nofollow"><span class="skill">GitHub Repo</span></a> or see the  <a href="//woot.timgreen.ws/" rel="nofollow"><span class="skill">live view</span></a> of this work in progress.
       </p>
     </div>
   </section>
