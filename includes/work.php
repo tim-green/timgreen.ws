@@ -12,6 +12,7 @@
         include('includes/slides/slider-orb.php');
         include('includes/slides/slider-idle.php');
         include('includes/slides/slider-moonlight.php');
+        include('includes/slides/slider-nightowl.php');
       ?>
     </div>
   </section>
