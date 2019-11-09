@@ -8,7 +8,7 @@
   <meta name="author" content="Tim Green">
   <meta name="publisher" content="Tim Green">
   <meta name="google" content="notranslate" />
-    <meta name="viewport" content="initial-scale=1, user-scalable=no">
+  <meta name="viewport" content="initial-scale=1, user-scalable=no">
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
@@ -26,8 +26,9 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
-  <link rel="stylesheet" href="../build/css/styles.min.css" >
-  <link rel="stylesheet" href="../assets/css/react.css" >
+  <link rel="stylesheet" href="../build/css/styles.min.css">
+  <link rel="stylesheet" href="../assets/css/react.css">
+  <link rel="stylesheet" href="../assets/css/dark-mode.css">
 </head>
 
 <!-- BODY -->
