@@ -25,9 +25,9 @@ $(document).ready(function(){
 var typed = new Typed(".typed", {
   loop: true,
   strings: ["thinks twice",
-            "is a latte drinker",
+            "is a former latte drinker",
             "watches people play games on the internet",
-            "strangely like ASMR videos",
+            "is a huge fan of Rooster Teeth",
             "does his own thing",
             "cares about margins",
             "does things the hard way",
