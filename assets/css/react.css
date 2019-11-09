@@ -1,3 +1,4 @@
+
 /* Global */
 *, *:before, *:after {
   -moz-box-sizing: border-box;
@@ -93,6 +94,13 @@ p {
 }
 
 
+/* Responsive - Tablet/Mobile */
+@media screen and (max-width: 860px) {
+  .one-project-box{
+    margin: 5vw 0;
+  }
+}
+
 /* Responsive - Mobile */
 @media screen and (max-width: 600px) {
   h1 {
@@ -114,4 +122,3 @@ p {
     width: 88%;
     margin: 0 6%;
   }
-}
