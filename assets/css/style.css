@@ -143,6 +143,10 @@ section{
   font-weight: bold;
 }
 
+.experience-info-comapny, .experience-info-position, .notable-info-comapny, .notable-info-position{
+  display:block;
+}
+
 .moretag{display: none;}
 
 
