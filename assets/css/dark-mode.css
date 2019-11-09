@@ -1,0 +1,57 @@
+/*Dark Mode for Apple*/
+@media (prefers-color-scheme: dark) {
+  body{
+    background:#111;
+    color: #808080;
+  }
+
+  .logo{
+    border-top: 7px #262626 solid;
+    object-position: -99999px 99999px;
+  }
+
+  ::selection {
+    background: rgba(243,97,154,.2);
+    color: #fff;
+  }
+
+  .pace .pace-progress {
+    background: #262626;
+  }
+
+  a, footer .container {
+    border-color: #262626;
+  }
+
+  a:hover{
+    border-color: #fff;
+  }
+
+  .highlight-pink, .skill, a, h2,.fas{
+    color: #f3619a;
+  }
+
+  h3, .external-linkBlog,.project-name{
+    color: #808080;
+  }
+
+  .slider::after{
+    opacity: .8;
+  }
+  
+  .external-linkBlog,.project-name{
+    border-color: #262626;
+  }
+
+  .scroll-to-top a {
+    background: #262626;
+    color: #f3619a !important;
+  }
+
+  /*Style for react page*/
+  .one-project-box{
+    background: #151515;
+    border-color: #262626;
+    box-shadow: 0 7px 14px #000;
+  }
+}
