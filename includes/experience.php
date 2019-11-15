@@ -18,17 +18,9 @@
         </summary>
       </p>
 
-       <p class="wow fadeInUp">
-        <summary class="experience-info">
-          <span class="experience-info-comapny">Freelancer</span>
-          <span class="experience-info-position">Website Developer</span>
-          <span class="experience-info-years">2010 - 2010</span>
-        </summary>
-      </p>
-
       <p class="wow fadeInUp">
         <summary class="experience-info">
-          <span class="experience-info-comapny">Roof Rack City ACT</span>
+          <span class="experience-info-comapny">Roof Rack City Canberra</span>
           <span class="experience-info-position">Website Developer</span>
           <span class="experience-info-years">2008-2010</span>
         </summary>
