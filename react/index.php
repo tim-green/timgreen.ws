@@ -211,6 +211,16 @@
         <a href="https://github.com/tim-green/password-generator" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
+      <div class="one-project-box project-16">
+        <div class="project-name">
+          Todoist Clone 
+        </div>
+        <p class="project-text">A React clone of the popular Todoist todo app that has React hooks, useState, useEffect and Firestore backend.</p>
+        <a href="http://todo-demo.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/todoist-clone-react" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+
       </div>
 
     <div class="footer">
