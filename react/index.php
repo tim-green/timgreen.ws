@@ -211,7 +211,7 @@
         <a href="https://github.com/tim-green/password-generator" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
-      <div class="one-project-box project-16">
+      <div class="one-project-box project-17">
         <div class="project-name">
           Todoist Clone 
         </div>
