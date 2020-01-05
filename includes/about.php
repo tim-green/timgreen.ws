@@ -22,7 +22,7 @@
 
       <h2 class="now wow fadeInUp">What I'm currently building</h2>
       <p class="now wow fadeInUp">
-        I'm currently working on creating a new  <span class="skill">WooCommerce</span> theme called Roost, and this WooCommerce theme is a work in progress and is based on WooCommerce's Storefront theme. You can view the <a href="//github.com/tim-green/roost-storefront-theme" rel="nofollow"><span class="skill">GitHub Repo</span></a> or see the  <a href="//woot.timgreen.ws/" rel="nofollow"><span class="skill">live view</span></a> of this work in progress.
+        I'm currently working on creating a new  <span class="skill">WordPress</span> theme called Retro Replay, and this theme is a work in progress. You can view the <a href="//github.com/tim-green/retro-replay" rel="nofollow"><span class="skill">GitHub Repo</span></a> or see the  <a href="//dev-wp.timgreen.ws/?theme-switch=retro-replay&passkey=74028120853" rel="nofollow"><span class="skill">live view</span></a> of this work in progress.
       </p>
     </div>
   </section>
