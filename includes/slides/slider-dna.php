@@ -1,3 +1,4 @@
+ <?php /* dna slider*/ ?>
       <h3>DNA Architects</h3>
       <div class="slider slider-dna">
         <div class="slide">

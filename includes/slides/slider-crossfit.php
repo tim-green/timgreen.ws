@@ -1,3 +1,4 @@
+ <?php /* crossfit2600 slider*/ ?>
       <h3>Crossfit2600</h3>
       <div class="slider slider-crosffit">
         <div class="slide">

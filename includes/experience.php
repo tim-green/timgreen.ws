@@ -1,3 +1,4 @@
+ <?php /* exp section*/ ?>
  <section id="exp" class="">
     <div class="container ">
       <h2 class="now wow fadeInUp">Experience</h2>

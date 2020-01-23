@@ -1,3 +1,4 @@
+ <?php /* SolarHub slider*/ ?>
       <h3>SolarHub</h3>
       <div class="slider slider-solarhub">
         <div class="slide">

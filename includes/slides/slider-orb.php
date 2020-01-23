@@ -1,3 +1,4 @@
+ <?php /* orb slider*/ ?>
       <h3>Orb - App Landing Page</h3>
       <div class="slider slider-swc">
         <div class="slide">

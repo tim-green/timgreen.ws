@@ -1,3 +1,4 @@
+ <?php /* swc slider*/ ?>
       <h3>SomeWhat Creative</h3>
       <div class="slider slider-swc">
         <div class="slide">

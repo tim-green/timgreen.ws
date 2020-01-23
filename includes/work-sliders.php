@@ -1,3 +1,4 @@
+ <?php /* slider  section*/ ?>
 <section class="work-box wow fadeInUp" id="work">
     <div class="container">
       <h2 class="now wow fadeInUp">Selected work</h2>

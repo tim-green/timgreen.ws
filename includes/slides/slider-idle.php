@@ -1,3 +1,4 @@
+ <?php /* idle slider*/ ?>
       <h3>Idle - Multipage Site Template</h3>
       <div class="slider slider-idle">
         <div class="slide">

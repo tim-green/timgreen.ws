@@ -1,3 +1,4 @@
+ <?php /*about section*/ ?>
  <section id="about">
     <div class="container">
       <h2 class="now wow fadeInUp">Bio + Skills</h2>

@@ -1,3 +1,4 @@
+ <?php /* social section*/ ?>
    <div class="social">
       <p class="social-icons">
          <a href="https://github.com/tim-green" target="_blank">

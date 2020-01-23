@@ -1,3 +1,4 @@
+ <?php /* nightowl slider*/ ?>
       <h3>Night Owl - Bootstrap Admin Dashboard Template</h3>
       <div class="slider slider-swc">
         <div class="slide">
