@@ -23,7 +23,7 @@
 
       <h2 class="now wow fadeInUp">What I'm currently building</h2>
       <p class="now wow fadeInUp">
-        I'm currently working on creating a new  <span class="skill">WordPress</span> theme called Retro Replay, and this theme is a work in progress. You can view the <a href="//github.com/tim-green/retro-replay" rel="nofollow"><span class="skill">GitHub Repo</span></a> or see the  <a href="//dev-wp.timgreen.ws/?theme-switch=retro-replay&passkey=74028120853" rel="nofollow"><span class="skill">live view</span></a> of this work in progress.
+        I'm currently working on developing some of my own  <span class="skill">WordPress plugins</span>, I've developed one plugin called Greeny Cookie Consent, and this plugin is simple and developer friendly plugin that let visitors know that the site is using cookies. You can view the <a href="//github.com/tim-green/greeny-cookie-consent" rel="nofollow"><span class="skill">GitHub Repo</span></a> where's the plugin is hosted
       </p>
     </div>
   </section>
