@@ -15,6 +15,7 @@
         include('includes/slides/slider-idle.php');
         include('includes/slides/slider-moonlight.php');
         include('includes/slides/slider-nightowl.php');
+        include('includes/slides/slider-retroreplay.php');
       ?>
     </div>
   </section>
