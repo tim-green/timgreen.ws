@@ -1,0 +1,47 @@
+/*
+
+  Scroll To Top
+  +
+
+*/
+
+/*Scroll to top*/
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    -webkit-transition: all ease .5s;
+    -ms-transition: all ease .5s;
+    transition: all ease .5s;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    z-index: 2;
+  }
+  
+  .scroll-to-top.active {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  
+  .scroll-to-top a {
+    display: block;
+    width: 28px;
+    height: 28px;
+    padding: 6px;
+    background:$purple;
+    font-size: 18px;
+    line-height: $scroll-line-height;
+    text-align: center;
+    color: $white !important;
+    -webkit-border-radius: 100%;
+    -ms-border-radius: 100%;
+    border-radius: 100%;
+  }
+  
+  .scroll-to-top a:hover, .scroll-to-top a:focus {
+    opacity: 0.8;
+    border-bottom: none;
+  }
+  

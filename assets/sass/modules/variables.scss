@@ -1,0 +1,61 @@
+/*
+
+  Variables
+  +
+
+*/
+
+// Colours
+
+//Black
+$black: #000000;
+$medium-black: #2e2e2e;
+$light-black: #262626;
+$soft-black: #151515;
+//Gray
+$darker-gray: #333333;
+$dark-gray: #111111;
+$hard-gray: #808080;
+$medium-gray: #d2d2d2;
+$midlight-gray: #cbcbcb;
+$light-gray: #f0f0f0;
+$lighter-gray: #e8e8e8;
+
+//Purple
+$purple: #363558;
+
+//White
+$white: #fff;
+
+//Pink
+$pink: #ea4c89;
+$light-pink: #f3619a;
+
+// Base
+$base-line-height: 1.5;
+$scroll-line-height: 1.55;
+
+//Fonts
+$font-stack: 'basis-grotesque', 'Helvetica Neue', 'Helvetica', helvetica, Arial, sans-serif;
+
+// Font Size
+$p: 1.2em;
+$h2: 1.8em;
+$h3: 1.2em;
+
+// Weights
+$hairline-weight: 100;
+$thin-weight:     200;
+$light-weight:    300;
+$normal-weight:   400;
+$medium-weight:   500;
+$semibold-weight: 600;
+$bold-weight:     700;
+$xbold-weight:    800;
+$black-weight:    900;
+
+//Text Transform
+$text-cap: capitalize; 
+$text-lower: lowercase;
+$text-upper: uppercase;
+$text-none: none;

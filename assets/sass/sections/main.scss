@@ -1,0 +1,84 @@
+/*
+
+  Main
+  +
+
+*/
+
+.flexy{
+  flex-direction: row
+}
+
+.slide-caption {
+  display: none;
+}
+.work-box {
+  margin-bottom: 5vw;
+}
+.work-details {
+  padding: 0 0 5vw 0;
+}
+.work-details p {
+  margin: 2vw 0 1vw;
+  width: 80%;
+}
+.work-details a {
+  font-size: 1em;
+}
+.site-credit{
+  font-size: 0.6em;
+  display: inline-block;
+}
+.bullet-separator {
+  display: inline-block;
+  margin: 0 15px;
+  opacity: 0.5;
+}
+.copy {
+  font-size: 0.8em;
+  padding: 0;
+  opacity: 0.5;
+  width: 80%;
+  float: left;
+}
+.social{
+  width: 20%;
+}
+.social {
+    width: 20%;
+    float: right;
+}
+.social-icons{
+  font-size: 0.8em;
+  padding: 0;
+  opacity: 0.5;
+  text-align: right;
+}
+.social-icons a{
+  padding-left:2.99%
+}
+
+.skill{
+  font-weight: bold;
+}
+
+.experience-info,.notable-info{
+
+}
+.experience-info-comapny,.notable-info-comapny{
+  font-weight: bold;
+}
+.experience-info-position,.notable-info-position{
+  display: inherit;
+  font-size: 0.95em;
+}
+.experience-info-years,.notable-info-years{
+  font-weight: bold;
+}
+
+.experience-info-comapny, .experience-info-position, .notable-info-comapny, .notable-info-position{
+  display:block;
+}
+
+.moretag{display: none;}
+

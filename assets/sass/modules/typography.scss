@@ -1,0 +1,59 @@
+/*
+
+  Typography
+  +
+
+*/
+
+body{
+  line-height: $base-line-height;
+}
+
+/* Text, Typograhy */
+a {
+  color:$dark-gray;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  border-bottom: 2px solid $lighter-gray;
+  transition: border ease 0.2s;
+}
+a:hover {
+  border-bottom: 2px solid $purple;
+}
+.highlight-pink{
+  color: $pink;
+}
+h2 {
+  font-size: 1.8em;
+}
+h3 {
+  font-size: 1.2em;
+}
+p {
+  /*font-size: 1.6em;*/
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+
+h1.headline {
+  font-style: normal;
+  font-size: 2.4em;
+  line-height: 1.4;
+  margin: 6vw 0;
+}
+
+h2 sup {
+  font-size: 12px;
+  font-weight: normal;
+}
+figure {
+  margin: 0;
+}
+section{
+  padding-bottom: 1vw;
+}

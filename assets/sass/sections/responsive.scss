@@ -1,0 +1,96 @@
+/*
+
+  Responsive
+  +
+
+*/
+
+/* iPhone X in portrait & landscape */
+@media only screen and (min-device-width: 375px) 
+and (max-device-width: 812px) and (-webkit-device-pixel-ratio: 3){
+  .scroll-to-top{
+    display: none;
+  }
+}
+
+/* Responsive - Tablet */
+@media screen and (max-width: 800px) {
+  .work-box {
+    margin-top:3vw /*7vw*/;
+  }
+  .hero {
+    padding: 10vw 0;
+  }
+  .slide-caption,.scroll-to-top {
+    display: none;
+  }
+}
+
+/* Responsive - Mobile 650 */
+@media screen and (max-width: 650px){
+  .copy {
+    width: 100%;
+    float: left;
+  }
+  .social{
+    width: 100%;
+  }
+  .social {
+      width: 100%;
+      float: left;
+  }
+  .social-icons{
+    margin-top: 0;
+    text-align: left;
+    font-size: 0.9em;
+}
+}
+/* Responsive - Mobile */
+@media screen and (max-width: 480px) {
+  h1.headline {
+    font-size: 26px;
+    margin: 45px 0;
+  }
+  .hero {
+    padding: 8vw 0;
+  }
+  .logo {
+    display: block;
+    height: 50px;
+    width: 25%;
+  }
+  .navigation .mail {
+    display: block;
+    margin-top: 0;
+    width: 28%;
+  }
+  p.large-text {
+    font-size: 1.1em;
+    line-height: 1.7;
+  }
+  p {
+    font-size: 1em;
+    line-height: 1.7;
+  }
+  .work-details p {
+    margin: 3vw 0 1vw;
+    width: 100%;
+  }
+  h2 {
+    font-size: 1.2em;
+  }
+  .work-box {
+    margin: 18vw 0;
+  }
+  .hero {
+    padding: 15vw 0;
+  }
+  .experience-info, .notable-info, .swc-title{
+    display: flex;
+    flex-direction: row;
+  }
+  .social-icons a {
+    padding-left: 0;
+  }
+  
+}
