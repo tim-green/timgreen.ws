@@ -1,3 +1,4 @@
+@@ -1,26 +1,4 @@
 <?php
 function sanitize_output($buffer) {
 
@@ -85,6 +86,6 @@ ob_start("sanitize_output");
   <?php include('includes/footer.php') ?>
   </footer>
 </div>
-<script src="build/js/scripts.min.js"></script>
+<script src="build/js/app.min.js"></script>
 </body>
 </html>
