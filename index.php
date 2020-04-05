@@ -1,4 +1,3 @@
-@@ -1,26 +1,4 @@
 <?php
 function sanitize_output($buffer) {
 
