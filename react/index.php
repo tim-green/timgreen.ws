@@ -221,6 +221,16 @@
         <a href="https://github.com/tim-green/todoist-clone-react" target="_blank" rel="nofollow">GitHub</a> 
       </div>
 
+      <div class="one-project-box project-18">
+        <div class="project-name">
+          IP Info
+        </div>
+        <p class="project-text">React app that interacts with IPinfo API to get the user IP number and information about the IP number such as the country of origin, region and city</p>
+        <a href="http://ipinfo.timgreen.xyz/" target="_blank">View project</a>
+          <span class="bullet-separator project-sep">&bull;</span>
+        <a href="https://github.com/tim-green/ip-info-react" target="_blank" rel="nofollow">GitHub</a> 
+      </div>
+
       </div>
 
     <div class="footer">
