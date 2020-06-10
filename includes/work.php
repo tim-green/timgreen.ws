@@ -6,7 +6,6 @@
       <?php 
         include('includes/slides/slider-solarhub.php'); 
         include('includes/slides/slider-rslnational.php');
-        include('includes/slides/slider-dna.php');
         include('includes/slides/slider-strathnairn.php');
         include('includes/slides/slider-crossfit.php'); 
         include('includes/slides/slider-atsb.php'); 
