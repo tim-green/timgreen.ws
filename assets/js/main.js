@@ -37,7 +37,8 @@ var typed = new Typed(".typed", {
             "has a bad back",
             "seeks inner peace",
             "keeps it real",
-            "cares about how fast your site loads"
+            "cares about how fast your site loads",
+            "is proud to be an introvert"
           ],
   typeSpeed: 100,
   backSpeed: 50,
