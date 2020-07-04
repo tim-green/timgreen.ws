@@ -33,7 +33,7 @@
 
 <!-- BODY -->
 <body>
-
+<?php /* react index page*/ ?>
 <div class="wrapper">
 
     <div class="header">
