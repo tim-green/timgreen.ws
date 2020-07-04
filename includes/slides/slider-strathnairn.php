@@ -1,4 +1,4 @@
- <?php /* strathnairn slider*/ ?>
+<?php /* strathnairn slider*/ ?>
       <h3>Strathnairn Arts</h3>
       <div class="slider slider-strathnairn">
         <div class="slide">

@@ -1,4 +1,4 @@
- <?php /* Nav section*/ ?>
+<?php /*navigation section*/ ?>
 <nav class="navigation">
         <a href="#about">Bio + Skills</a>
         <a href="#work">Selected work</a>

@@ -1,4 +1,4 @@
- <?php /* rsl slider*/ ?>
+<?php /* RSL slider*/ ?>
       <h3>Return Service League National</h3>
       <div class="slider slider-rsl">
         <div class="slide">

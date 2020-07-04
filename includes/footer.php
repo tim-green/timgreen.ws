@@ -1,4 +1,4 @@
- <?php /*footer section*/ ?>
+<?php /*footer section*/ ?>
    <div class="container">
       <p class="copy">
 

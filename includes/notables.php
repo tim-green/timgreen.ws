@@ -1,4 +1,4 @@
- <?php /* notables section*/ ?>
+<?php /* notables section*/ ?>
  <section id="notables" class="">
     <div class="container ">
       <h2 class="now wow fadeInUp">Notable</h2>

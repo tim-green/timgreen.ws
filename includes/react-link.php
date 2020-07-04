@@ -1,2 +1,2 @@
- <?php /*react link*/ ?>
+<?php /*react link*/ ?>
 /react/

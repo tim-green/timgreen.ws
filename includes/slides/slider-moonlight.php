@@ -1,4 +1,4 @@
- <?php /* moonlight slider*/ ?>
+<?php /* moonlight slider*/ ?>
       <h3>Moonlight - One Page Drupal Theme</h3>
       <div class="slider slider-moon">
         <div class="slide">
