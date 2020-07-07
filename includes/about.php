@@ -3,7 +3,7 @@
     <div class="container">
       <h2 class="now wow fadeInUp">Bio + Skills</h2>
       <p class="wow fadeInUp">
-        I'm a web developer with a passion for strong, simple websites. I have 10 years of experience working in both an advertising agency and freelance capacity, mainly focusing on building websites/web applications which are simple to use and look great.
+        I'm a web developer with a passion for strong, simple websites. I have 12 years of experience working in both an advertising agency and freelance capacity, mainly focusing on building websites/web applications which are simple to use and look great.
       </p>
       <p class="wow fadeInUp">
         I worked with some great agencies, government organisations, individuals and start-ups to their reach both business and website goals.
