@@ -23,10 +23,10 @@
 
       <h2 class="now wow fadeInUp">What I'm currently building</h2>
       <p class="now wow fadeInUp">
-        I'm currently working on developing some of my own <span class="skill">WordPress plugins</span>, I've developed one plugin called Greeny Cookie Consent, and this plugin is simple and developer-friendly plugin that let visitors know that the site is using cookies. You can view the <a href="//github.com/tim-green/greeny-cookie-consent" rel="nofollow"><span class="skill">GitHub Repo</span></a> where's the plugin is hosted.</p>
+      I'm currently working on developing some of my own <span class="skill">WordPress plugins</span>, I've developed one plugin called Greeny Cookie Consent, and this plugin is simple and developer-friendly plugin that let visitors know that the site is using cookies. You can view the <a href="//github.com/tim-green/greeny-cookie-consent" rel="nofollow"><span class="skill">GitHub Repo</span></a> where's the plugin is hosted.</p>
       
       <p class="now wow fadeInUp">
-        And also I've created a simple HTML template called <span class="skill">Wanderland</span> which you can <a href="//wanderland.timgreen.ws/" rel="nofollow"><span class="skill">view the site here</span></a>, or you can visit the <a href="//github.com/tim-green/wanderland-html" rel="nofollow"><span class="skill">GitHub Repo</span></a>.
+        And also I've created a simple, clean and responsive WooCommerce specific theme called <span class="skill">Booth</span> which you can <a href="//themes.timgreen.ws/booth/" rel="nofollow"><span class="skill">visit the site here</span></a>, or view the <a href="//github.com/tim-green/booth-woocommerce-theme" rel="nofollow"><span class="skill">GitHub Repo</span></a>, also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="skill">NPM package</span></a> which is based on my resume.
       </p>
     </div>
   </section>
