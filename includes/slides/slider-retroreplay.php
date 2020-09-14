@@ -18,7 +18,7 @@
         <p>
           <sup class="site-credit">Simple WordPress blogging theme that is flexible for any type of content</sup>
         </p>
-        <a href="http://retro-replay.timgreen.ws/" rel="follow">View website</a>
+        <a href="https://themes.timgreen.ws/retro-replay/" rel="follow">View website</a>
           <span class="bullet-separator project-sep">&bull;</span>
         <a href="https://github.com/tim-green/retro-replay" target="_blank" rel="nofollow">GitHub</a> 
       </div>
