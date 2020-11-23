@@ -1,6 +1,6 @@
  <?php /* booth woocommerce theme slider*/ ?>
       <h3>Booth - WooCommerce Theme</h3>
-      <div class="slider slider-moon">
+      <div class="slider slider-booth">
         <div class="slide">
           <figure>
             <img class="slide-image" src="assets/images/slide-booth.jpg" alt="">
