@@ -73,7 +73,7 @@ ob_start("sanitize_output");
         include('includes/work.php');
         include('includes/experience.php');
         include('includes/notables.php');
-        //include('includes/blog.php');
+        include('includes/blog.php');
   ?>
 
   <!-- scroll to top -->
