@@ -1,16 +1,16 @@
 <?php /* atsb slider*/ ?>
-      <h3>ATSB Annual Report 2016-17</h3>
-      <div class="slider slider-strathnairn">
+      <h3>ATSB Annual Report</h3>
+      <div class="slider slider-atsb">
         <div class="slide">
           <figure>
             <img class="slide-image" src="assets/images/slide-ATSBAnnualReport2016-17Home.jpg" alt="">
-            <figcaption class="slide-caption">ATSB Annual Report 2016-17</figcaption>
+            <figcaption class="slide-caption">ATSB Annual Report</figcaption>
           </figure>
         </div>
         <div class="slide">
           <figure>
             <img class="slide-image" src="assets/images/slide-ATSBAnnualReport2016-17.jpg" alt="">
-            <figcaption class="slide-caption">ATSB Annual Report 2016-17</figcaption>
+            <figcaption class="slide-caption">ATSB Annual Report</figcaption>
           </figure>
         </div>
       </div>

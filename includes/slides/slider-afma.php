@@ -1,5 +1,5 @@
 <?php /* afma slider*/ ?>
-      <h3>AFMA Annual Report 2016-17</h3>
+      <h3>AFMA Annual Report</h3>
       <div class="slider slider-afma">
         <div class="slide">
           <figure>
