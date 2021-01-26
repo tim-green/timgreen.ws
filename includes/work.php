@@ -12,6 +12,7 @@
         include('includes/slides/slider-afma.php'); 
         include('includes/slides/slider-orb.php');
         include('includes/slides/slider-idle.php');
+        include('includes/slides/slider-automotiv.php');
         include('includes/slides/slider-moonlight.php');
         include('includes/slides/slider-nightowl.php');
         include('includes/slides/slider-booth.php');
