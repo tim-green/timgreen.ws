@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     concat: {
       js: {
         src: ['assets/js/jquery.js', 'assets/js/pace.js', 'assets/js/wow.min.js', 'assets/js/slick.min.js', 'assets/js/typed.min.js','assets/js/main.js','assets/js/scroll-to-top.js'],
-        dest: 'assets/js/scripts.js',  
+        dest: 'assets/build/app.min.js',  
       },
     },
     sass: {
@@ -15,7 +15,7 @@ module.exports = function(grunt) {
           sourcemap: false
         },
         files: {
-          'build/css/app.min.css': [
+          'assets/build/app.min.css': [
               'assets/sass/app.scss'
           ]
         }
@@ -24,13 +24,13 @@ module.exports = function(grunt) {
     uglify: {
       dist: {
         files: {
-          'build/js/app.min.js': [
+          'assets/build/app.min.js': [
             'assets/js/scripts.js'
           ]
         },
         options: {
-          sourceMap: 'build/js/app.min.js.map',
-          sourceMappingURL: 'build/js/app.min.js.map'
+          sourceMap: 'assets/build/app.min.js.map',
+          sourceMappingURL: 'assets/build/app.min.js.map'
         }
       }
     },
@@ -58,8 +58,8 @@ module.exports = function(grunt) {
     },
     clean: {
       dist: [
-        'build/css/app.min.css',
-        'build/js/app.min.js'
+        'ssets/build/app.min.css',
+        'assets/build/app.min.js'
       ]
     }
   });
