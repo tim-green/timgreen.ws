@@ -26,7 +26,7 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
-  <link rel="stylesheet" href="../build/css/styles.min.css">
+  <link rel="stylesheet" href="../assets/build/app.min.css">
   <link rel="stylesheet" href="../assets/css/react.css">
   <link rel="stylesheet" href="../assets/css/dark-mode.css">
 </head>
@@ -241,7 +241,7 @@
 
   </div>
 
-<script src="build/js/scripts.js" ></script>
+<script src="../assets/build/app.min.js" ></script>
  <!-- Hotjar Tracking Code for TGWS -->
     <script>
     (function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:2523,hjsv:6};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r)})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
