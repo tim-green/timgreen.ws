@@ -48,7 +48,7 @@ ob_start("sanitize_output");
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
-  <link rel="stylesheet" href="build/css/app.min.css">
+  <link rel="stylesheet" href="assets/build/app.min.css">
 </head>
 
 <!-- BODY -->
@@ -85,6 +85,6 @@ ob_start("sanitize_output");
   <?php include('includes/footer.php') ?>
   </footer>
 </div>
-<script src="build/js/app.min.js"></script>
+<script src="assets/build/app.min.js"></script>
 </body>
 </html>
