@@ -25,7 +25,7 @@ ob_start("sanitize_output");
 <head>
   <title>Personal Site of Tim Green, a Front End Developer currently living in Canberra, Australia</title>
   <meta charset="utf-8">
-  <meta name="description" content="Hi I'm Tim Green, I'm a Website Developer living here in Canberra, Australia with 10 years experience where I've created and helped companies, government organisations and start-ups.">
+  <meta name="description" content="Hi I'm Tim Green, I'm a Website Developer living here in Canberra, Australia with 13 years experience where I've created and helped companies, government organisations and start-ups.">
   <meta name="robots" content="index, follow, all" />
   <meta name="author" content="Tim Green">
   <meta name="publisher" content="Tim Green">
