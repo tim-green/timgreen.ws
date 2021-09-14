@@ -1,3 +1,5 @@
+This is the old version of my site, checkout: https://github.com/tim-green/tgws-v2
+
 # A bit about my website
 I've completely rewritten and changed the layout of my website. 
 
@@ -11,3 +13,4 @@ I've included a dark colour scheme for those users who have set dark mode on the
 bit different from light mode.
 
 I've got mix feelings about adding a link to my resume but I did it, so now you can find it all the way down at the bottom of the site.... **Hint**... it's located behind the PDF icon in the footer of my site. 
+
